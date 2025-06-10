@@ -1,5 +1,14 @@
-## Hi there 👋
+## Привет 👋
 
+Я фронтенд разработичк, специализриующийся на React.
+Мой стек:
+- HTML5, CSS3(PCSS, CSS-modules), handlebars
+- Javascript, TypeScript
+- React, React Hooks,
+
+  Я умею:
+  - Работа с API (fetch, Axios), API браузера
+  - Типизация
 <!--
 **Mishulka/Mishulka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
