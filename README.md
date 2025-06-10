@@ -2,24 +2,15 @@
 
 Я фронтенд разработичк, специализриующийся на React.
 Мой стек:
-- HTML5, CSS3(PCSS, CSS-modules), handlebars
-- Javascript, TypeScript
-- React, React Hooks,
 
-  Я умею:
-  - Работа с API (fetch, Axios), API браузера
-  - Типизация
-<!--
-**Mishulka/Mishulka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Навыки
+Языки: JavaScript, TypeScript, HTML5, CSS3, SCSS
+Фреймворки и библиотеки: React, Redux / MobX, Bootstrap, Tailwind, Axios
+Инструменты: Git, GitHub, npm, Webpack, Figma, VS Code
+Бэкенд (базовые знания): Django + DRF, Node.js (начальный уровень)
+Прочее: адаптивная вёрстка, маршрутизация, хранение состояния, анимации, компонентный подход
+Работа с API (fetch, Axios), API браузера, JWT-tokens
+Типизация
+Js: async await, отлов ошибок, DOM, virtualDOM, работа с формами, Events
+Git: pull/push, ветки, коммиты
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
